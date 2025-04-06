@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp34._1.Commercial">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAABBAAAAAAAAAAAAAAAACIAAAAAAAA=</HashCode>
+      <FileName>Commercial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp34._1.FreeSoftware">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>FreeSoftware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp34._1.Program">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp34._1.Shareware">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAABAAAAAAAAAAAAAAAACIAAAAAAAA=</HashCode>
+      <FileName>Shareware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp34._1.Software">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAQAAIAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Software.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
